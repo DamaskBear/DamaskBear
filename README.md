@@ -20,6 +20,16 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
+
+<p>
+Обо мне:
+<ul>
+<li><img width="20" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/yandex_logo_icon_170668.png"/> Ученик Я.Практикум</li>
+<li><img width="20" height="20" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png">   7 kui в Codewars</li>
+<li><img width="20" height="20" src="https://cdn.icon-icons.com/icons2/41/PNG/128/f1_formula1_6833.png"/> смотрю F1</li>
+</ul>
+</p>
+
 <div>
 <h3>Способы связи:</h3>
 <img width="20" height="20" src="https://img.icons8.com/emoji/48/000000/e-mail.png" /> <a href="mailto:power16bit@gmail.com">power16bit@gmail.com</a><br>

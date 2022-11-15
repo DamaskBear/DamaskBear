@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/26hiu3mZVquuykwhy/giphy.gif" width="500"/>
 </div>
 
@@ -41,3 +41,4 @@
   <img width="50%" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DamaskBear&theme=merko&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D" />
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamaskBear&theme=merko&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&layout=compact" />
 </div>
+ -->
